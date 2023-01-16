@@ -1,0 +1,17 @@
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\bin\Debug\net6.0\SystemModeling_CourseWork.exe
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\bin\Debug\net6.0\SystemModeling_CourseWork.deps.json
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\bin\Debug\net6.0\SystemModeling_CourseWork.runtimeconfig.json
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\bin\Debug\net6.0\SystemModeling_CourseWork.dll
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\bin\Debug\net6.0\SystemModeling_CourseWork.pdb
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\bin\Debug\net6.0\Extreme.Numerics.dll
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\obj\Debug\net6.0\SystemModeling_CourseWork.csproj.AssemblyReference.cache
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\obj\Debug\net6.0\SystemModeling_CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\obj\Debug\net6.0\SystemModeling_CourseWork.AssemblyInfoInputs.cache
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\obj\Debug\net6.0\SystemModeling_CourseWork.AssemblyInfo.cs
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\obj\Debug\net6.0\SystemModeling_CourseWork.csproj.CoreCompileInputs.cache
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\obj\Debug\net6.0\SystemModeling_CourseWork.csproj.CopyComplete
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\obj\Debug\net6.0\SystemModeling_CourseWork.dll
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\obj\Debug\net6.0\refint\SystemModeling_CourseWork.dll
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\obj\Debug\net6.0\SystemModeling_CourseWork.pdb
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\obj\Debug\net6.0\SystemModeling_CourseWork.genruntimeconfig.cache
+D:\Projects\.NET\SystemModeling_CourseWork\SystemModeling_CourseWork\obj\Debug\net6.0\ref\SystemModeling_CourseWork.dll
